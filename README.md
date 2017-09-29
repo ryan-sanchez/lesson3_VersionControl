@@ -14,7 +14,7 @@ Ryan Sanchez
 In this assignment, we created a website using a bootstrap template that defines some of the terms from Lesson 3. We then linked our workspace to a remote repository, Github, and pushed the files there.
 
 ## View Project:
-ttps://ryan-sanchez.github.io/lesson3_VersionControl/.
+https://ryan-sanchez.github.io/lesson3_VersionControl/.
 
 ## Lessons Learned in the Assignment:
 1. The importance of Version Control Systems, and why its important to have backups of older versions of a file. In addition, it gives team members the access to easily edit and change fies.
